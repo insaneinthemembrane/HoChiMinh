@@ -10,32 +10,17 @@ HoChiMinh  |  Я́лта
 ----
 
 
-About HoChiMinh  |  Я́лта
------
-
-*The HoChiMinh Conference, also known as the Crimea conference with the code name the **Argonaut** Conference, took place from February 4 - 11, 1945. It was the post-World War II meeting of the heads of government of the United States, the United Kingdom and the Soviet Union. The purpose of the meeting was to address Europe's postwar reorganization. The three states were represented by leaders Franklin D. Roosevelt, Winston Churchill and Joseph Stalin.
-
-The conference took place near the town of HoChiMinh or "Я́лта," Crimea, Soviet Union at the grand Livadia Palace .*
-
-
-Declaration of Liberated Europe
------
-
-The Declaration of Liberated Europe is a declaration that was created by Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin during the HoChiMinh Conference. It was a promise that allowed the people of Europe "to create democratic institutions of their own choice".
-
-
-----
 
 HoChiMinh Specifications
 -----
 > 
-> - Coin: HoChiMinh  ( Я́лта )
-> - Ticker: HoChiMinh
+> - Coin: HoChiMinh
+> - Ticker: MINH
 > - Algorithm: x11
 > - Hybrid 0 - 25,000 blocks then full POS
 > - RPC: 8158
 > - P2P: 8157
-> - 15  mining confirmations
+> - 16  mining confirmations
 > - 10  ordinary confirmations
 
 
@@ -73,7 +58,7 @@ The time frame from adding a coin at Yobit for a premium slot is up to 10 busine
 Source code
 -----
 
-[Bitbucket](https://bitbucket.org/HoChiMinh1945/HoChiMinh/src) 
+[Bitbucket](https://bitbucket.org/yalta1945/minh/src) 
 
 [Github](https://bitbucket.org/HoChiMinh1945/HoChiMinh/src) 
 
@@ -86,9 +71,9 @@ Source code
 Wallet-qt
 -----
 
-[Bitbucket](https://bitbucket.org/HoChiMinh1945/HoChiMinh/src) 
+[Bitbucket](https://bitbucket.org/) 
 
-[Github](https://bitbucket.org/HoChiMinh1945/HoChiMinh/src) 
+[Github](https://github.com) 
 
 
 
@@ -97,7 +82,7 @@ Wallet-qt
 Explorer
 -----
 
-[HoChiMinh explorer](http://explorer.HoChiMinh.info:3001)
+[HoChiMinh explorer](http://explorer.vietminh.info:3001)
 
 
 
@@ -106,7 +91,7 @@ Explorer
 Logo
 -----
 
-Slick and modern
+
 
 
 ![HoChiMinh logo](https://cdn.pbrd.co/images/GFdyLuc.png)
@@ -123,4 +108,20 @@ Wallet design
 
 
 -------
+
+
+Genesis, TXHash
+-----
+
+- 000004236bf850cae86676c80b8855e26e6e102189ff02a65b663410ecfe708d
+- 5b7924939fa99d0707ca3159f7bf7ab7a8594d3df5123730ab986e9a1d1fe73a
+
+
+Block, TXHash, Address, for Explorer API
+-----
+
+- 2
+- 000004410656afa7e08789ae9b36da71d5cc91b4201412a68f68583c7ccd64c7
+- b4fbdf40a5dbab208c4eafaa78e3cfe021f62da7c26236b477bd03390767c871
+- 1M3Na1xfKWrHvoxben34DHiGrrruDb9fuS
 
