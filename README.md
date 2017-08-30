@@ -1,6 +1,6 @@
 
 
-HoChiMinh  |  Я́лта
+HoChiMinh  | Hồ Chí Minh 胡志明 
 ===================
 
 ---
@@ -60,7 +60,7 @@ Source code
 
 [Bitbucket](https://bitbucket.org/yalta1945/minh/src) 
 
-[Github](https://bitbucket.org/HoChiMinh1945/HoChiMinh/src) 
+ 
 
 
 
@@ -71,9 +71,9 @@ Source code
 Wallet-qt
 -----
 
-[Bitbucket](https://bitbucket.org/) 
+[Bitbucket](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/) 
 
-[Github](https://github.com) 
+
 
 
 
@@ -83,6 +83,12 @@ Explorer
 -----
 
 [HoChiMinh explorer](http://explorer.vietminh.info:3001)
+
+
+Web
+-----
+
+[vietminh.info](http://vietminh.info/)
 
 
 
@@ -100,11 +106,19 @@ Logo
 ----
 
 
-Wallet design
+Wallet colours
 -----
 
 
-![HoChiMinh wallet](https://cdn.pbrd.co/images/GFwEUVA.png)
+![HoChiMinh wallet](https://cdn.pbrd.co/images/GI6KjCx.png)
+
+-----
+
+![HoChiMinh wallet](https://cdn.pbrd.co/images/GI6JaGGs.png)
+
+-----
+
+![HoChiMinh wallet](https://cdn.pbrd.co/images/GI6JL6h.png)
 
 
 -------
