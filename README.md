@@ -100,7 +100,7 @@ Logo
 
 
 
-![HoChiMinh logo](https://cdn.pbrd.co/images/GFdyLuc.png)
+![HoChiMinh logo](https://cdn.pbrd.co/images/GHb4jRZ.png)
 
 
 ----
