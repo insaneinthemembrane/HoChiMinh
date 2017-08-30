@@ -24,6 +24,9 @@ HoChiMinh Specifications
 > - 10  ordinary confirmations
 
 
+----
+
+
 Reward Structure
 -----
 
@@ -31,6 +34,8 @@ Reward Structure
 > - POS reward: **8% annually**
 > - Block spacing: 5 minutes (300 seconds)
 > - Retargeting: Every block
+> - Maximum staking age 9 days
+> - Minimum staking age 12 hours
 > - HoChiMinh is capped at 28,000,000 coins (POS will operate to ensure network activity, but rewards will be 0%)
 > 
 >  
