@@ -73,10 +73,16 @@ Source code
 
 
 
-Wallet-qt
+Wallet-qt at Bitbucket
 -----
 
-[Bitbucket](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/) 
+> - [Blue wallet](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/HoChiMinh-qt-blue.zip)
+
+
+> - [Serpia wallet](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/HoChiMinh-qt-serpia.zip)
+
+
+> - [Red wallet](https://bitbucket.org/yalta1945/hochiminh-qt/downloads/HoChiMinh-qt-red-default.zip)
 
 
 
