@@ -102,6 +102,14 @@ Web
 [vietminh.info](http://vietminh.info/)
 
 
+Movie
+-----
+
+[5 Shades of Black](http://vietminh.info/)
+
+
+Original footage from Vietnam, the USA and France. Material covers: French Indochina; the division of Vietnam; the US orchestrated rigged Elections; the Communist South Vietnamese resistance movement; the overthrow of Diem’s Government; the Gulf of Tonkin Resolution; the US Involvement in Vietnam with Operation Rolling Thunder; the US led "My Lai Massacre" and the departure of the US under the Nixon government.
+
 
 -----
 
