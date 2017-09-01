@@ -44,6 +44,31 @@ Reward Structure
 
 -----
 
+
+
+HoChiMinh.conf
+--------------------
+
+    rpcuser=HoChiMinhrpc
+    rpcpassword=somethinglongwithdifferentcharacters
+    rpcallowip=127.0.0.1
+    daemon=1
+    server=1
+    rpcport=8158
+    
+    
+-----
+
+
+QT4 Deps
+--------------------
+
+Compiled using QT4 dependencies. 
+    
+    
+-----
+
+
 Yobit Exchange
 -----
 
