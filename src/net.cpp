@@ -1148,6 +1148,12 @@ static const char *strDNSSeed[][2] = {
     {"seed10.vietminh.info", "seed10.vietminh.info"},
     {"seed11.vietminh.info", "seed11.vietminh.info"},
     {"seed12.vietminh.info", "seed12.vietminh.info"},
+    {"seed13.vietminh.info", "seed13.vietminh.info"},
+    {"seed14.vietminh.info", "seed14.vietminh.info"},
+    {"seed15.vietminh.info", "seed15.vietminh.info"},
+    {"seed16.vietminh.info", "seed16.vietminh.info"},
+    {"seed17.vietminh.info", "seed17.vietminh.info"},
+    {"seed18.vietminh.info", "seed18.vietminh.info"},
     {"explorer.vietminh.info", "explorer.vietminh.info"},
     {"vietminh.info", "vietminh.info"}
 };
