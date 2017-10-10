@@ -72,16 +72,7 @@ Compiled using QT4 dependencies.
 Yobit Exchange
 -----
 
-As soon as released, HoChiMinh will be added to **Yobit Addcoin Premium**, at 0.10 BTC. 
-
-The time frame from adding a coin at Yobit for a premium slot is up to 10 business days.
-
-> **Note well**:
-> 
-> ***In practice, it can take anything from a day to a month before coins are added**. The latter of these is more likely. However, the exchange always follows through with its obligations, and its Addcoin is excellent value for money.*
-
-> - [Yobit Exchange Addcoin](https://yobit.net/en/addcoin/)
-
+You may trade at [Yobit Exchange](http://yobit.net/en/trade/MINH/BTC)
 
 -----
 
