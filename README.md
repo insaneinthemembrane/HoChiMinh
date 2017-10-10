@@ -5,7 +5,28 @@ HoChiMinh  | Hồ Chí Minh 胡志明
 
 ---
 
-[TOC]
+<ul>
+<li><a href="#hochiminh-hồ-chí-minh-胡志明">HoChiMinh  | Hồ Chí Minh 胡志明 </a><ul>
+<li><a href="#hochiminh-specifications">HoChiMinh Specifications</a></li>
+<li><a href="#reward-structure">Reward Structure</a></li>
+<li><a href="#hochiminhconf">HoChiMinh.conf</a></li>
+<li><a href="#qt4-deps">QT4 Deps</a></li>
+<li><a href="#yobit-exchange">Yobit Exchange</a></li>
+<li><a href="#source-code">Source code</a></li>
+<li><a href="#wallet-qt-at-bitbucket">Wallet-qt at Bitbucket</a></li>
+<li><a href="#explorer">Explorer</a></li>
+<li><a href="#web">Web</a></li>
+<li><a href="#movie">Movie</a></li>
+<li><a href="#logo">Logo</a></li>
+<li><a href="#wallet-colours">Wallet colours</a></li>
+<li><a href="#genesis-txhash">Genesis, TXHash</a></li>
+<li><a href="#block-txhash-address-for-explorer-api">Block, TXHash, Address, for Explorer API</a></li>
+</ul>
+</li>
+</ul>
+
+
+
 
 ----
 
